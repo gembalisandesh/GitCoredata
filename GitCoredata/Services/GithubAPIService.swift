@@ -3,7 +3,7 @@
 //  GitCoredata
 //
 //  Created by user263604 on 6/29/24
-6/29/24.
+
 //
 
 import Foundation
