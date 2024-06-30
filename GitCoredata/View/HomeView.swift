@@ -12,7 +12,7 @@ struct HomeView: View {
     @StateObject private var viewModel: HomeViewModel
 
     init(authToken: String? = nil, context: NSManagedObjectContext) {
-        let authToken: String = "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"
+        let authToken: String = "<Your AuthToken>"
         _viewModel = StateObject(wrappedValue: HomeViewModel(authToken: authToken, context: context))
     }
 
