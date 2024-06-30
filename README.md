@@ -38,7 +38,7 @@ GitCoredata is an iOS application built using SwiftUI, Swift, MVVM, and CoreData
 1. Clone the repository:
     ```sh
     git clone https://github.com/gembalisandesh/GitCoredata.git
-    cd GitSearchWithCoredata
+    cd GitCoredata
     ```
 
 2. Open the project in Xcode:
